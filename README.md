@@ -1,11 +1,9 @@
-[![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://in.pinterest.com)
 <h1 align="center">Hi 👋, I'm Anay Malviya</h1>
 <h3 align="center">A passionate software developer and technology enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anaymalviya007&label=Profile%20views&color=0e75b6&style=flat" alt="anaymalviya007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anaymalviya007" alt="anaymalviya007" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anaymalviya007&label=Profile%20views&color=0e75b6&style=flat" alt="anaymalviya007" /> </p>
 
 - 🔭 I’m currently working on **Sigmoid**
 
@@ -35,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anaymalviya007&show_icons=true&locale=en" alt="anaymalviya007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anaymalviya007&" alt="anaymalviya007" /></p>
+
